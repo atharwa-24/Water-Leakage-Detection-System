@@ -5,5 +5,6 @@
 [![Arduino](https://img.shields.io/badge/Arduino-C-brightgreen)](https://github.com/atharwa-24/Water-Leakage-Detection-System/search?l=c%2B%2B)
 </div>
 
-|![1](img/1.jpg)|
+![IMG2](img/3.jpg)
+![IMG1](img/1.jpg)|
 
